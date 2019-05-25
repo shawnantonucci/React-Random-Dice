@@ -66,3 +66,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+"# React-Random-Dice"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/shawnantonucci/React-Random-Dice.git git push -u origin master
+# React-Random-Dice
